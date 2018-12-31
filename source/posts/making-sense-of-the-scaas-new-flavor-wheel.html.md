@@ -1,5 +1,5 @@
 ---
-title: Bulletproof Kaffa/Te och MCT-olja
+title: Skottsäkert Kaffe/Te och MCT-olja
 date: '2018-08-14T12:01+02:00'
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
