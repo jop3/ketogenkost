@@ -8,7 +8,7 @@ article.news-item
           .date
             //make sure the article date is actually a date
             - date = Date.parse article.data.date.to_s
-            span = date.strftime("%d-%m-%Y")
+            span = date.strftime("%Y-%m-%d")
 
     .content
       .wrapper
@@ -17,4 +17,4 @@ article.news-item
         
         p = article.data.description
 
-        = link_to 'Read the story', article, class: 'cta'
+        = link_to 'Fortsätt läsa...', article, class: 'cta'
